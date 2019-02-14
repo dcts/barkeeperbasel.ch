@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: Century Gothic;
+}
+
+a, a:link, a:active, a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#logo {
+   height: 300px;
+}
