@@ -2,7 +2,16 @@ body {
   background-color: black;
   text-align: center;
   color: white;
-  font-family: Century Gothic;
+  font-family: 'Muli', sans-serif;
+}
+
+h1 {
+  letter-spacing: 2px;
+}
+
+p {
+  line-height: 1.6;
+  /*letter-spacing: 2px;*/
 }
 
 a, a:link, a:active, a:visited {
